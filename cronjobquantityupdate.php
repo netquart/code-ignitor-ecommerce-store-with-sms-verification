@@ -7,7 +7,7 @@
 	*/
 	
 
-$link = mysqli_connect("localhost", "raafayma_cart", "4unt.n}_]=,M", "raafayma_cart");
+$link = mysqli_connect("localhost", "root", "", "shop_database");
 
 if (!$link) {
     echo "Error: Unable to connect to MySQL." . PHP_EOL;
