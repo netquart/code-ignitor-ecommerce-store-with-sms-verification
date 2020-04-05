@@ -46,9 +46,9 @@ $message =  'Dear admin here are the products whose quantities are less then fiv
 	
 	
 	            $username = "923085506487";///Your Username
-				$password = "3529";///Your Password
-				$mobile = '923009657646';///Recepient Mobile Number
-				$sender = "Raafay Mall";
+				$password = "your pass";///Your Password
+				$mobile = '';///Recepient Mobile Number
+				$sender = "";//sender name/company name
 				$message = $message;
 				
 				//sending sms
